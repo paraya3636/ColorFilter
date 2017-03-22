@@ -1,5 +1,5 @@
 [![License](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
-[![](https://jitpack.io/v/paraya3636/VisibleChooser.svg)](https://jitpack.io/#paraya3636/VisibleChooser)
+[![](https://jitpack.io/v/paraya3636/ColorFilter.svg)](https://jitpack.io/#paraya3636/ColorFilter)
 
 # ColorFilter
 
